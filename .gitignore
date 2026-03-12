@@ -1,0 +1,12 @@
+config/spark/jars/*
+__pycache__/
+
+*.pyc
+
+.ipynb_checkpoints/
+
+*.log
+
+tmp/
+
+config/spark/jars/*
